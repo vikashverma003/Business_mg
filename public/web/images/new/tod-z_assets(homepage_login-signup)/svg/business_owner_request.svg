@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>business_owner_request</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage-and-login/signup" transform="translate(-507.000000, -25.000000)">
+            <g id="business_owner_request" transform="translate(507.000000, 25.000000)">
+                <circle id="Oval" fill="#FFF9E0" cx="40" cy="40" r="40"></circle>
+                <g id="Group-7" transform="translate(14.000000, 16.000000)">
+                    <g id="Group-15">
+                        <circle id="Oval" fill="#FFE87F" cx="8" cy="8" r="8"></circle>
+                        <g id="Group" transform="translate(30.500000, 25.500000) scale(-1, 1) translate(-30.500000, -25.500000) translate(8.000000, 3.000000)">
+                            <path d="M0.918367347,43.5625555 L21.0425909,43.5625555 L21.0425909,38.9307897 C21.0425909,33.3736388 16.53763,28.8686779 10.9804791,28.8686779 C5.42332825,28.8686779 0.918367347,33.3736388 0.918367347,38.9307897 L0.918367347,43.5625555 Z" id="Rectangle" stroke="#212121" stroke-width="1.83673469"></path>
+                            <circle id="Oval" stroke="#212121" stroke-width="1.83673469" cx="10.4813665" cy="22.460071" r="6.48846495"></circle>
+                            <path d="M24.9556344,0.918367347 C23.2576161,0.918367347 21.8811003,2.29488318 21.8811003,3.99290151 L21.8811003,25.639346 C21.8811003,26.000056 22.0120249,26.3485054 22.2495541,26.6199673 C22.7911362,27.2389183 23.7319343,27.3016382 24.3508853,26.760056 L27.2147161,24.2542041 C28.1099986,23.4708319 29.2591863,23.0390417 30.4488092,23.0390417 L40.9272405,23.0390417 C42.6252588,23.0390417 44.0017746,21.6625259 44.0017746,19.9645075 L44.0017746,3.99290151 C44.0017746,2.29488318 42.6252588,0.918367347 40.9272405,0.918367347 L24.9556344,0.918367347 Z" id="Rectangle" stroke="#212121" stroke-width="1.83673469"></path>
+                            <text id="?" transform="translate(32.941437, 12.991127) scale(-1, 1) translate(-32.941437, -12.991127) " font-family="Graphik-Semibold, Graphik" font-size="15.971606" font-weight="500" letter-spacing="0.998225358" fill="#212121">
+                                <tspan x="28.1938776" y="17.9911269">?</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

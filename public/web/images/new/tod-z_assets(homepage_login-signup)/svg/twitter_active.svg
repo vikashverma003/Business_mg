@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.91648,0 C5.34576,0 0,5.34576 0,11.91648 C0,18.48672 5.34576,23.83296 11.91648,23.83296 C18.48672,23.83296 23.83296,18.48672 23.83296,11.91648 C23.83296,5.34576 18.48768,0 11.91648,0 Z M17.23248,9.18912 C17.23776,9.3072 17.24064,9.42624 17.24064,9.54528 C17.24064,13.16976 14.48256,17.34768 9.43632,17.34768 C7.88736,17.34768 6.44544,16.89504 5.232,16.11648 C5.44656,16.14192 5.66496,16.15488 5.88624,16.15488 C7.17168,16.15488 8.35392,15.71616 9.2928,14.9808 C8.0928,14.95872 7.07952,14.16576 6.73056,13.07568 C6.8976,13.10736 7.06992,13.12512 7.24608,13.12512 C7.49616,13.12512 7.73904,13.09248 7.96896,13.0296 C6.71424,12.77808 5.76912,11.66976 5.76912,10.34016 C5.76912,10.32864 5.76912,10.31664 5.7696,10.3056 C6.1392,10.51056 6.56208,10.6344 7.01136,10.64832 C6.276,10.15728 5.79168,9.31728 5.79168,8.36592 C5.79168,7.86288 5.92656,7.39152 6.16272,6.9864 C7.51488,8.64624 9.53664,9.73776 11.81568,9.85296 C11.76864,9.65184 11.74512,9.44304 11.74512,9.22752 C11.74512,7.71312 12.97296,6.4848 14.48736,6.4848 C15.27648,6.4848 15.98832,6.81792 16.48944,7.35072 C17.11488,7.22784 17.70048,7.00032 18.23184,6.68496 C18.02544,7.32576 17.592,7.86288 17.02416,8.20272 C17.57952,8.13648 18.10944,7.9896 18.59952,7.7712 C18.23376,8.32032 17.76864,8.80368 17.23248,9.18912 Z" id="path-1"></path>
+        <filter x="-37.8%" y="-37.8%" width="175.5%" height="175.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.44 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="homepage-and-login/signup" transform="translate(-341.000000, -186.000000)" fill-rule="nonzero">
+            <g id="twitter_active" transform="translate(347.000000, 192.000000)">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

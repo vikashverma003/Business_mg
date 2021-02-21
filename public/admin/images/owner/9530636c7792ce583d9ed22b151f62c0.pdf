@@ -1,0 +1,40 @@
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\src\Dompdf.php</b> on line <b>600</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\src\Dompdf.php</b> on line <b>621</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\lib\Cpdf.php</b> on line <b>469</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\lib\Cpdf.php</b> on line <b>476</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\lib\Cpdf.php</b> on line <b>483</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\lib\Cpdf.php</b> on line <b>490</b><br />
+<br />
+<b>Warning</b>:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in <b>C:\xampp\htdocs\pdf\dompdf\src\Css\Stylesheet.php</b> on line <b>1340</b><br />
+<br />
+<b>Warning</b>:  mysqli_connect(): (HY000/1049): Unknown database 'testing1' in <b>C:\xampp\htdocs\pdf\index.php</b> on line <b>77</b><br />
+<br />
+<b>Warning</b>:  mysqli_query() expects parameter 1 to be mysqli, bool given in <b>C:\xampp\htdocs\pdf\index.php</b> on line <b>85</b><br />
+<br />
+<b>Warning</b>:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in <b>C:\xampp\htdocs\pdf\index.php</b> on line <b>113</b><br />
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 1

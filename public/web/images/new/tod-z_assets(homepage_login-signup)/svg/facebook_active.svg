@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.91648,-1.3500312e-13 C18.48768,-1.3500312e-13 23.83296,5.34576 23.83296,11.91648 C23.83296,18.48672 18.48672,23.83296 11.91648,23.83296 C5.34576,23.83296 -2.13162821e-14,18.48672 -2.13162821e-14,11.91648 C-2.13162821e-14,5.34576 5.34576,-1.3500312e-13 11.91648,-1.3500312e-13 Z M14.88,12.336 L15.13104,9.89424 L12.94224,9.89424 L12.94224,8.45904 C12.94224,7.91952 13.29984,7.79376 13.55136,7.79376 C13.80288,7.79376 15.09648,7.79376 15.09648,7.79376 L15.09648,5.42304 L12.96768,5.41488 C10.60608,5.41488 10.06848,7.18272 10.06848,8.31408 L10.06848,9.89376 L8.70288,9.89376 L8.70288,12.336 L10.06848,12.336 C10.06848,15.4704 10.06848,19.24608 10.06848,19.24608 L12.94128,19.24608 C12.94128,19.24608 12.94128,15.43344 12.94128,12.336 L14.88,12.336 Z" id="path-1"></path>
+        <filter x="-37.8%" y="-37.8%" width="175.5%" height="175.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.44 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="homepage-and-login/signup" transform="translate(-437.000000, -186.000000)" fill-rule="nonzero">
+            <g id="facebook_active" transform="translate(443.000000, 192.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
